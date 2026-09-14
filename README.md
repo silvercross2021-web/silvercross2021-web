@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Brou%20Kablan%20Christ%20Brandonne%20Davy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20Web%20%26%20Mobile&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Brou%20Kablan%20Christ%20Brandonne%20Davy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20Web%20%26%20Mobile&descAlignY=56&descSize=18&v=2" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 </td>
 <td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6A11CB&center=false&vCenter=true&multiline=true&repeat=true&width=580&height=90&lines=Salut%2C+moi+c'est+Davy+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+Web+%26+Mobile;Passionn%C3%A9+par+l'IA+et+la+blockchain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6A11CB&center=false&vCenter=true&multiline=true&repeat=true&width=580&height=130&lines=Salut%2C+moi+c'est+Davy+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+Web+%26+Mobile;Passionn%C3%A9+par+l'IA+et+la+blockchain" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=silvercross2021-web&label=Visiteurs&color=6A11CB&style=flat" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/silvercross2021-web?label=Followers&style=flat&color=2575FC" alt="Followers"/>
