@@ -33,15 +33,6 @@ Développeur Full-Stack Web & Mobile, diplômé en Génie Logiciel (IIT). Passio
 
 ---
 
-### 💼 Parcours & réalisations
-
-- 🏆 **Lauréat DevFest Abidjan 2025 — Justice-Guide AI** : plateforme juridique multilingue assistée par IA (français, dioula, langues locales) pour faciliter l'accès au droit en Côte d'Ivoire
-- 🖥️ **Stage Responsable Informatique — DEJUC GROUP** : conception du site institutionnel [dejucinternational.com](https://dejucinternational.com) et d'autres projets internes, en tant que responsable du pôle informatique
-- 💻 **Développeur Full-Stack freelance — Gariticket** : développement web & mobile de [gariticket.io](https://gariticket.io), billetterie de bus
-- 🤖 **Agent d'automatisation IA (n8n & API OpenAI)** : automatisation de la gestion Excel via commandes vocales et textuelles
-
----
-
 ### 🛠️ Stack technique
 
 **Langages**
@@ -138,16 +129,12 @@ Développeur Full-Stack Web & Mobile, diplômé en Génie Logiciel (IIT). Passio
 ### 📊 Statistiques GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=silvercross2021-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A11CB&icon_color=2575FC&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=silvercross2021-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A11CB&icon_color=2575FC&text_color=C9D1D9&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvercross2021-web&hide_border=true&background=0D1117&ring=6A11CB&fire=2575FC&currStreakLabel=2575FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvercross2021-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=6A11CB&text_color=C9D1D9" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=silvercross2021-web&theme=dracula&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=silvercross2021-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=6A11CB&text_color=C9D1D9" height="165"/>
 </p>
 
 ---
