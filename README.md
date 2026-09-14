@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Brou%20Kablan%20Davy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Web%20%26%20Designer%20%E2%80%94%20C%C3%B4te%20d'Ivoire&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=230&section=header&text=Brou%20Kablan%20Christ%20Brandonne%20Davy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20Web%20%26%20Mobile&descAlignY=56&descSize=18" width="100%"/>
 
 </div>
 
 <table>
 <tr>
 <td width="190" align="center">
-<img src="assets/avatar_circle.png" width="170" height="170" alt="Brou Kablan Davy"/>
+<img src="assets/avatar_circle.png" width="170" height="170" alt="Brou Kablan Christ Brandonne Davy"/>
 <br/>
 <sub><b>@silvercross2021-web</b></sub>
 </td>
 <td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6A11CB&center=false&vCenter=true&multiline=true&repeat=true&width=580&height=90&lines=Salut%2C+moi+c'est+Davy+%F0%9F%91%8B;%C3%89tudiant+en+G%C3%A9nie+Logiciel+%40+IIT;Full-Stack+%7C+Automatisation+%7C+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6A11CB&center=false&vCenter=true&multiline=true&repeat=true&width=580&height=90&lines=Salut%2C+moi+c'est+Davy+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+Web+%26+Mobile;Passionn%C3%A9+par+l'IA+et+la+blockchain" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=silvercross2021-web&label=Visiteurs&color=6A11CB&style=flat" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/silvercross2021-web?label=Followers&style=flat&color=2575FC" alt="Followers"/>
@@ -25,16 +25,20 @@
 
 ---
 
-### 🧭 À propos
+### 🧭 Profil
 
-Étudiant en **Licence 3 Génie Logiciel** à l'**Institut Ivoirien de Technologie (IIT)**, polyvalent et motivé, avec des compétences solides en développement logiciel et développement web. J'aime relever les défis et contribuer à des projets innovants tout en poursuivant mon apprentissage.
+Développeur Full-Stack Web & Mobile, diplômé en Génie Logiciel (IIT). Passionné par l'IA et la blockchain, polyvalent et motivé. Autonome et curieux, je veux contribuer à des projets innovants tout en progressant professionnellement.
 
-🏆 **Vainqueur du Hackathon DevFest Abidjan 2025** avec **Justice-Guide AI**, une plateforme juridique IA multilingue (Français / Dioula / Baoulé) pour la Côte d'Ivoire.
+📍 Abidjan, Côte d'Ivoire &nbsp;·&nbsp; 🌍 Français (natif) / Anglais (A2) &nbsp;·&nbsp; 📫 brandonnebrou257@gmail.com
 
-- 📍 Basé en Côte d'Ivoire
-- 🎓 IIT — Institut Ivoirien de Technologie
-- 💬 Ouvert aux opportunités stage / projets freelance
-- 📫 brandonnebrou257@gmail.com
+---
+
+### 💼 Parcours & réalisations
+
+- 🏆 **Lauréat DevFest Abidjan 2025 — Justice-Guide AI** : plateforme juridique multilingue assistée par IA (français, dioula, langues locales) pour faciliter l'accès au droit en Côte d'Ivoire
+- 🖥️ **Stage Responsable Informatique — DEJUC GROUP** : conception du site institutionnel [dejucinternational.com](https://dejucinternational.com) et d'autres projets internes, en tant que responsable du pôle informatique
+- 💻 **Développeur Full-Stack freelance — Gariticket** : développement web & mobile de [gariticket.io](https://gariticket.io), billetterie de bus
+- 🤖 **Agent d'automatisation IA (n8n & API OpenAI)** : automatisation de la gestion Excel via commandes vocales et textuelles
 
 ---
 
@@ -43,93 +47,91 @@
 **Langages**
 
 <p align="left">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-**Web, mobile & API**
+**Développement web & mobile**
 
 <p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-6A11CB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
 
-**Automatisation, cloud & outils**
+**Bases de données & API**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/RPA%20%2F%20IA-2575FC?style=for-the-badge&logo=automattic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+**Blockchain / Web3**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+</p>
+
+**Outils & déploiement**
+
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPS-2575FC?style=for-the-badge"/>
+</p>
+
+**Systèmes & design**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/openEuler-C7000B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerDirector-6A11CB?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🚀 Projets phares
+### 🎓 Formation & certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Licence en Génie Logiciel** — Institut Ivoirien de Technologie (IIT)
 
-**🏆 Justice-Guide AI**
-Plateforme juridique IA multilingue (FR / Dioula / Baoulé) — Vainqueur DevFest Abidjan 2025
-[Voir →](https://folio-silvercross.vercel.app/work/3)
-
-**📱 Application Mobile Nsakpa**
-App cross-platform — `Flutter` `Dart` `Django` `REST API`
-[Voir →](https://folio-silvercross.vercel.app/work/2)
-
-**🏢 Gestion de parc informatique**
-ERP interne — `Odoo`
-[Voir →](https://folio-silvercross.vercel.app/work/8)
-
-**🤖 Agent d'automatisation IA**
-RPA & Excel — `Automatisation` `IA`
-[Voir →](https://folio-silvercross.vercel.app/work/7)
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Application MonÉtab**
-Gestion scolaire — `Angular` `TypeScript` `Node.js` `RxJS`
-[Voir →](https://folio-silvercross.vercel.app/work/1)
-
-**🎓 Gestion scolaire (C#)**
-Application de gestion — `C#`
-[Voir →](https://folio-silvercross.vercel.app/work/6)
-
-**🛒 Site e-commerce**
-Boutique en ligne — `Django`
-[Voir →](https://folio-silvercross.vercel.app/work/5)
-
-**📅 Gestion de réservations**
-Système de réservation — `Flask`
-[Voir →](https://folio-silvercross.vercel.app/work/4)
-
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://folio-silvercross.vercel.app/work">→ Voir tous les projets sur mon portfolio</a></p>
+- HCIA-openEuler V1.0 — Huawei ICT Academy
+- AI Basic: Overview of AI (programme de formation CRA) — Huawei ICT Academy
+- Atelier « AI-driven Tools » — AI University, India
+- Certification MySQL — Cursa
 
 ---
 
-### 🎓 Certifications
+### 🚀 Projets
 
-- **HCIA-openEuler V1.0 Course** — Huawei ICT Academy
-- **AI Basic: Overview of AI** (CRA Training Program) — Huawei ICT Academy & CRA
-- **Overview of AI** — Huawei ICT Academy
-- **Hackathon DevFest Cloud Abidjan & Cocody 2025** — Google Developer Groups (GDG Cloud)
-- **Achieve 10X Productivity with AI-driven Tools** — Universal AI University
+<p align="center">
+<a href="https://folio-silvercross.vercel.app/work"><img src="https://img.shields.io/badge/Voir_mon_portfolio-6A11CB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/silvercross2021-web?tab=repositories"><img src="https://img.shields.io/badge/Voir_mes_d%C3%A9p%C3%B4ts_GitHub-2575FC?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
